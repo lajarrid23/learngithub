@@ -7,5 +7,6 @@ Bacon
 Grits
 butter 
 oranges
-
+pizza 
+beans
 Thank you
