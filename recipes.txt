@@ -10,7 +10,8 @@ oranges
 pizza 
 beans
 Thank you
-
+cucumbers 
+raddishes
 
 
 Done my changes
